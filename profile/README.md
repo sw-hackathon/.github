@@ -3,7 +3,7 @@
 > `임대인` &harr; `임차인`, `임차인` &harr; `임차인` 간 생기는 문제는 소통의 부재로 이를 해결하기 위한 애플리케이션   
 
 <div align="center">
-    <img src="static/img/1.png" alt=""/>
+    <img src="https://user-images.githubusercontent.com/67765871/175453190-c8216008-bbd2-4e44-9504-b3f2f302c299.png" alt=""/>
 </div>
 
 ## Contributors
@@ -15,6 +15,6 @@
 ## Architecture
 
 <div align="center">
-    <img src="static/img/2.png" alt=""/>
+    <img src="https://user-images.githubusercontent.com/67765871/175453185-b18e6fc9-cf04-4f0f-b4c2-93f893a5cc5e.png" alt=""/>
 </div>
 
